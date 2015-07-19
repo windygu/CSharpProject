@@ -1,6 +1,6 @@
 ﻿namespace Cleaner
 {
-    partial class PrintMoneyTicket
+    partial class PrintMoneyTicketForm
     {
         /// <summary>
         /// Required designer variable.

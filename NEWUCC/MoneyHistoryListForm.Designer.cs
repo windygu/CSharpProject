@@ -1,6 +1,6 @@
 ﻿namespace Cleaner
 {
-    partial class MoneyHistoryList
+    partial class MoneyHistoryListForm
     {
         /// <summary>
         /// Required designer variable.

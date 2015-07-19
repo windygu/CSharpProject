@@ -10,15 +10,16 @@ using Cleaner.Core;
 
 namespace Cleaner
 {
-    public partial class MoneyHistoryList : Form
+    public partial class MoneyHistoryListForm : Form
     {
-        public MoneyHistoryList()
+        public MoneyHistoryListForm()
         {
             InitializeComponent();
             this.Controls.Add(lv);
             lv.Location = this.listView1.Location;
             lv.Size = this.listView1.Size;
             this.listView1.Visible = false;
+            lv.CheckBoxes = true;
         }
         Whats.UI.WinForm.UIListView<MoneyHistory> lv = new Whats.UI.WinForm.UIListView<MoneyHistory>();
         private void MoneyHistoryList_Load(object sender, EventArgs e)

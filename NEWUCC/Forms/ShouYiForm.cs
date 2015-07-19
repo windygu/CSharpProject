@@ -233,26 +233,32 @@ namespace NEWUCC
                 history.MoneyID = "M" + DateTime.Now.ToString("yyyyMMdd") + UccRuntime.Dop.Count<MoneyHistory>();
                 history.Money = string.IsNullOrEmpty(this.txtMoney.Text) ? 0 : -double.Parse(this.txtThisMoney.Text);
                 history.MoneyTime = DateTime.Now;
+                
                 User user = new User();
                 if (!string.IsNullOrEmpty(this.txtUserID.Text))
                 {
                     user.UserID = this.txtUserID.Text;
                     user = UccRuntime.Dop.SelectSingle(user) as User;
                     history.BeforeMoney = user.Money;
+                    history.UserID = user.UserID;
+                    history.UserName = user.UserName;
                     user.Money += history.Money;
                 }
                 else
                 {
                     user.UserName = this.txtUserName.Text;
                 }
+
                 Ticket.TicketID = this.txtTicketID.Text;
                 Ticket = UccRuntime.Dop.SelectSingle(Ticket) as ShouYi;
                 Ticket.MoneyState = "已付";
                 this.cbxMoneyState.Text = "已付";
 
                 UccRuntime.Dop.Insert(history);
+                
                 if (user != null)
                     UccRuntime.Dop.Update(user);
+
                 UccRuntime.Dop.Update(Ticket);
                 MessageBox.Show("操作成功！");
             }

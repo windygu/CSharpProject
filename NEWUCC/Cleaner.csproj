@@ -115,17 +115,17 @@
     <Compile Include="Forms\UCC.Designer.cs">
       <DependentUpon>UCC.cs</DependentUpon>
     </Compile>
-    <Compile Include="MoneyHistoryList.cs">
+    <Compile Include="MoneyHistoryListForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MoneyHistoryList.Designer.cs">
-      <DependentUpon>MoneyHistoryList.cs</DependentUpon>
+    <Compile Include="MoneyHistoryListForm.Designer.cs">
+      <DependentUpon>MoneyHistoryListForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="PrintMoneyTicket.cs">
+    <Compile Include="PrintMoneyTicketForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PrintMoneyTicket.Designer.cs">
-      <DependentUpon>PrintMoneyTicket.cs</DependentUpon>
+    <Compile Include="PrintMoneyTicketForm.Designer.cs">
+      <DependentUpon>PrintMoneyTicketForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -219,6 +219,18 @@
     <Compile Include="SettingsForm.Designer.cs">
       <DependentUpon>SettingsForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="XiaCiEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XiaCiEditForm.Designer.cs">
+      <DependentUpon>XiaCiEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XiaCiListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XiaCiListForm.Designer.cs">
+      <DependentUpon>XiaCiListForm.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Forms\ChongZhi.resx">
       <DependentUpon>ChongZhi.cs</DependentUpon>
     </EmbeddedResource>
@@ -228,11 +240,11 @@
     <EmbeddedResource Include="Forms\PinPaiAddForm.resx">
       <DependentUpon>PinPaiAddForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MoneyHistoryList.resx">
-      <DependentUpon>MoneyHistoryList.cs</DependentUpon>
+    <EmbeddedResource Include="MoneyHistoryListForm.resx">
+      <DependentUpon>MoneyHistoryListForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PrintMoneyTicket.resx">
-      <DependentUpon>PrintMoneyTicket.cs</DependentUpon>
+    <EmbeddedResource Include="PrintMoneyTicketForm.resx">
+      <DependentUpon>PrintMoneyTicketForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -306,6 +318,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="SettingsForm.resx">
       <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XiaCiEditForm.resx">
+      <DependentUpon>XiaCiEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XiaCiListForm.resx">
+      <DependentUpon>XiaCiListForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="Properties\Settings.settings">

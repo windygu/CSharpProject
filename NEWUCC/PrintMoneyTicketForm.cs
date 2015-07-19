@@ -10,9 +10,9 @@ using Cleaner.Core;
 
 namespace Cleaner
 {
-    public partial class PrintMoneyTicket : Form
+    public partial class PrintMoneyTicketForm : Form
     {
-        public PrintMoneyTicket()
+        public PrintMoneyTicketForm()
         {
             InitializeComponent();
         }

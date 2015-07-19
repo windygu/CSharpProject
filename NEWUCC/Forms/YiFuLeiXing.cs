@@ -20,8 +20,9 @@ namespace NEWUCC
         public void LoadData()
         {
             this.flowLayoutPanel1.Controls.Clear();
-
+            
             var list = UccRuntime.Dop.Select<YiFuPriceType>();
+            
             for (int i = 0; i < list.Count; i++)
             {
                 RadioButton box = new RadioButton();

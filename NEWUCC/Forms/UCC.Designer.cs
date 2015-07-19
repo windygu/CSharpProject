@@ -48,6 +48,7 @@
             this.btnSettings = new System.Windows.Forms.Button();
             this.txtKouFei = new System.Windows.Forms.Button();
             this.btnMoneyHistoryList = new System.Windows.Forms.Button();
+            this.btnXiaCi = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnShouYi
@@ -259,11 +260,23 @@
             this.btnMoneyHistoryList.UseVisualStyleBackColor = true;
             this.btnMoneyHistoryList.Click += new System.EventHandler(this.btnMoneyHistoryList_Click);
             // 
+            // btnXiaCi
+            // 
+            this.btnXiaCi.Location = new System.Drawing.Point(460, 303);
+            this.btnXiaCi.Margin = new System.Windows.Forms.Padding(5);
+            this.btnXiaCi.Name = "btnXiaCi";
+            this.btnXiaCi.Size = new System.Drawing.Size(100, 100);
+            this.btnXiaCi.TabIndex = 19;
+            this.btnXiaCi.Text = "瑕疵列表";
+            this.btnXiaCi.UseVisualStyleBackColor = true;
+            this.btnXiaCi.Click += new System.EventHandler(this.btnXiaCi_Click);
+            // 
             // UCC
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(700, 608);
+            this.Controls.Add(this.btnXiaCi);
             this.Controls.Add(this.btnMoneyHistoryList);
             this.Controls.Add(this.txtKouFei);
             this.Controls.Add(this.btnSettings);
@@ -316,6 +329,7 @@
         private System.Windows.Forms.Button btnSettings;
         private System.Windows.Forms.Button txtKouFei;
         private System.Windows.Forms.Button btnMoneyHistoryList;
+        private System.Windows.Forms.Button btnXiaCi;
     }
 }
 

@@ -8,4 +8,3 @@ D:\Projects\Whats.Installer.CompileClient\obj\Debug\Start.pdb
 D:\Projects\Whats.Installer.CompileClient\obj\Debug\Whats.Installer.CompileClient.Start.resources
 D:\Projects\Whats.Installer.CompileClient\obj\Debug\Whats.Installer.CompileClient.Main.resources
 D:\Projects\Whats.Installer.CompileClient\obj\Debug\Whats.Installer.CompileClient.UnStart.resources
-D:\Projects\Whats.Installer.CompileClient\obj\Debug\Whats.Installer.CompileClient.csprojResolveAssemblyReference.cache

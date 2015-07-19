@@ -192,13 +192,19 @@ namespace NEWUCC
 
         private void txtKouFei_Click(object sender, EventArgs e)
         {
-            Cleaner.PrintMoneyTicket form = new Cleaner.PrintMoneyTicket();
+            Cleaner.PrintMoneyTicketForm form = new Cleaner.PrintMoneyTicketForm();
             form.ShowDialog();
         }
 
         private void btnMoneyHistoryList_Click(object sender, EventArgs e)
         {
-            Cleaner.MoneyHistoryList form = new Cleaner.MoneyHistoryList();
+            Cleaner.MoneyHistoryListForm form = new Cleaner.MoneyHistoryListForm();
+            form.ShowDialog();
+        }
+
+        private void btnXiaCi_Click(object sender, EventArgs e)
+        {
+            Cleaner.XiaCiListForm form = new Cleaner.XiaCiListForm();
             form.ShowDialog();
         }
     }

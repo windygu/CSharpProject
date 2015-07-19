@@ -71,7 +71,10 @@ namespace Whats.App
             }
             else
             {
-                Directory.Delete(startMenuDir);
+                if(Directory.Exists(startMenuDir))
+                {
+                    Directory.Delete(startMenuDir, true);
+                }
             }
             string autoStart = Environment.GetFolderPath(Environment.SpecialFolder.Startup) + "/" + AppRuntime.AppInfo.AppTitle + ".lnk";
             

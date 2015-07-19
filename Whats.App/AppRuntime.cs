@@ -15,17 +15,20 @@ namespace Whats.App
 
         static AppRuntime()
         {
-            string appInfoJsonPath = AppDomain.CurrentDomain.BaseDirectory + "app/app.json";
-            if(File.Exists(appInfoJsonPath))
-            {
-                AppInfo = DataConverter.JsonToObject<AppInfo>(File.ReadAllText(appInfoJsonPath, Encoding.Default));
-            }
-            else
-            {
-                AppInfo = new AppInfo();
+            AppInfo = new App.AppInfo();
+            Settings = new App.Settings();
 
-            }
-            string appSettings = AppDomain.CurrentDomain.BaseDirectory + "app/settings.json";
+            //string appInfoJsonPath = AppDomain.CurrentDomain.BaseDirectory + "config/app.json";
+            //if (File.Exists(appInfoJsonPath))
+            //{
+            //    AppInfo = DataConverter.JsonToObject<AppInfo>(File.ReadAllText(appInfoJsonPath, Encoding.Default));
+            //}
+            //else
+            //{
+            //    AppInfo = new AppInfo();
+            //}
+            string appSettings = AppDomain.CurrentDomain.BaseDirectory + "config/settings.json";
+
             if (File.Exists(appSettings))
             {
                 Settings = DataConverter.JsonToObject<Settings>(File.ReadAllText(appSettings, Encoding.Default));
@@ -33,7 +36,6 @@ namespace Whats.App
             else
             {
                 Settings = new Settings();
-
             }
             AppHelper.Save(AppInfo, Settings);
 
