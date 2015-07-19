@@ -1,0 +1,11 @@
+D:\Projects\Whats.App\bin\Debug\config\seat.txt
+D:\Projects\Whats.App\bin\Debug\Whats.App.dll
+D:\Projects\Whats.App\bin\Debug\Whats.App.pdb
+D:\Projects\Whats.App\bin\Debug\Roo.dll
+D:\Projects\Whats.App\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Whats.App\bin\Debug\Mono.Data.Sqlite.dll
+D:\Projects\Whats.App\bin\Debug\Roo.pdb
+D:\Projects\Whats.App\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Whats.App\obj\Debug\Whats.App.dll
+D:\Projects\Whats.App\obj\Debug\Whats.App.pdb
+D:\Projects\Whats.App\obj\Debug\Whats.App.csprojResolveAssemblyReference.cache

@@ -1,0 +1,41 @@
+C:\Users\lujiejie\Desktop\UCC\QRCodeLib\obj\Debug\Whats.QRCode.Properties.Resources.resources
+C:\Users\lujiejie\Desktop\UCC\QRCodeLib\obj\Debug\Whats.QRCode.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\UCC\QRCodeLib\obj\Debug\Whats.QRCode.dll
+C:\Users\lujiejie\Desktop\UCC\QRCodeLib\obj\Debug\Whats.QRCode.pdb
+C:\Users\lujiejie\Desktop\UCC\QRCodeLib\Whats.QRCode.dll
+C:\Users\lujiejie\Desktop\UCC\QRCodeLib\Whats.QRCode.pdb
+C:\Users\lujiejie\Desktop\UCC\Whats.QRCode\obj\Debug\Whats.QRCode.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\UCC\Whats.QRCode\obj\Debug\Whats.QRCode.Properties.Resources.resources
+C:\Users\lujiejie\Desktop\UCC\Whats.QRCode\obj\Debug\Whats.QRCode.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\UCC\Whats.QRCode\obj\Debug\Whats.QRCode.dll
+C:\Users\lujiejie\Desktop\UCC\Whats.QRCode\obj\Debug\Whats.QRCode.pdb
+C:\Users\lujiejie\Desktop\UCC\Whats.QRCode\Whats.QRCode.dll
+C:\Users\lujiejie\Desktop\UCC\Whats.QRCode\Whats.QRCode.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\obj\Debug\Whats.QRCode.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\obj\Debug\Whats.QRCode.Properties.Resources.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\obj\Debug\Whats.QRCode.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\obj\Debug\Whats.QRCode.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\obj\Debug\Whats.QRCode.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\Whats.QRCode.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\Whats.QRCode.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.QRCode\obj\Debug\Whats.QRCode.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.QRCode\obj\Debug\Whats.QRCode.Properties.Resources.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.QRCode\obj\Debug\Whats.QRCode.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.QRCode\obj\Debug\Whats.QRCode.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.QRCode\obj\Debug\Whats.QRCode.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.QRCode\Whats.QRCode.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.QRCode\Whats.QRCode.pdb
+D:\Projects\Libs\Whats\Whats.QRCode\obj\Debug\Whats.QRCode.csprojResolveAssemblyReference.cache
+D:\Projects\Libs\Whats\Whats.QRCode\obj\Debug\Whats.QRCode.Properties.Resources.resources
+D:\Projects\Libs\Whats\Whats.QRCode\obj\Debug\Whats.QRCode.csproj.GenerateResource.Cache
+D:\Projects\Libs\Whats\Whats.QRCode\obj\Debug\Whats.QRCode.dll
+D:\Projects\Libs\Whats\Whats.QRCode\obj\Debug\Whats.QRCode.pdb
+D:\Projects\Libs\Whats\Whats.QRCode\Whats.QRCode.dll
+D:\Projects\Libs\Whats\Whats.QRCode\Whats.QRCode.pdb
+D:\Projects\Whats.QRCode\obj\Debug\Whats.QRCode.Properties.Resources.resources
+D:\Projects\Whats.QRCode\obj\Debug\Whats.QRCode.csproj.GenerateResource.Cache
+D:\Projects\Whats.QRCode\obj\Debug\Whats.QRCode.dll
+D:\Projects\Whats.QRCode\obj\Debug\Whats.QRCode.pdb
+D:\Projects\Whats.QRCode\Whats.QRCode.dll
+D:\Projects\Whats.QRCode\Whats.QRCode.pdb
+D:\Projects\Whats.QRCode\obj\Debug\Whats.QRCode.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+C:\Users\lujiejie\Desktop\UCC\Whats.BarCode\bin\Debug\Whats.BarCode.dll
+C:\Users\lujiejie\Desktop\UCC\Whats.BarCode\bin\Debug\Whats.BarCode.pdb
+C:\Users\lujiejie\Desktop\UCC\Whats.BarCode\obj\Debug\Whats.BarCode.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\UCC\Whats.BarCode\obj\Debug\Whats.BarCode.dll
+C:\Users\lujiejie\Desktop\UCC\Whats.BarCode\obj\Debug\Whats.BarCode.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.BarCode\bin\Debug\Whats.BarCode.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.BarCode\bin\Debug\Whats.BarCode.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.BarCode\obj\Debug\Whats.BarCode.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.BarCode\obj\Debug\Whats.BarCode.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.BarCode\obj\Debug\Whats.BarCode.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.BarCode\bin\Debug\Whats.BarCode.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.BarCode\bin\Debug\Whats.BarCode.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.BarCode\obj\Debug\Whats.BarCode.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.BarCode\obj\Debug\Whats.BarCode.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.BarCode\obj\Debug\Whats.BarCode.pdb
+D:\Projects\Libs\Whats\Whats.BarCode\bin\Debug\Whats.BarCode.dll
+D:\Projects\Libs\Whats\Whats.BarCode\bin\Debug\Whats.BarCode.pdb
+D:\Projects\Libs\Whats\Whats.BarCode\obj\Debug\Whats.BarCode.csprojResolveAssemblyReference.cache
+D:\Projects\Libs\Whats\Whats.BarCode\obj\Debug\Whats.BarCode.dll
+D:\Projects\Libs\Whats\Whats.BarCode\obj\Debug\Whats.BarCode.pdb
+D:\Projects\Whats.BarCode\bin\Debug\Whats.BarCode.dll
+D:\Projects\Whats.BarCode\bin\Debug\Whats.BarCode.pdb
+D:\Projects\Whats.BarCode\obj\Debug\Whats.BarCode.dll
+D:\Projects\Whats.BarCode\obj\Debug\Whats.BarCode.pdb

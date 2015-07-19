@@ -1,0 +1,5 @@
+﻿{
+    "Domain": "http://update.freeroo.xyz/cleaner/",
+    "RemoteUrl": "http://update.freeroo.xyz/cleaner/version.json",
+    "LocalDir": "D:\\Projects\\NEWUCC\\bin\\Debug\\"
+}

@@ -1,0 +1,6 @@
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\bin\Release\Whats.UI.WinForm.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\bin\Release\Whats.UI.WinForm.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\obj\Release\Whats.UI.WinForm.UIResource.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\obj\Release\Whats.UI.WinForm.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\obj\Release\Whats.UI.WinForm.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\obj\Release\Whats.UI.WinForm.pdb

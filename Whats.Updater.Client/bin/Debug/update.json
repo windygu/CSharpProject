@@ -1,0 +1,5 @@
+﻿{
+    "Domain": "http://localhost:9999",
+    "RemoteUrl": "http://localhost:9999/update_tmp/update.json",
+    "LocalDir": "D:\\Projects\\Whats.Updater.Client\\bin\\Debug\\"
+}

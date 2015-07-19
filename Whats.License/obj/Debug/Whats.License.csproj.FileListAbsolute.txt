@@ -1,0 +1,10 @@
+D:\Projects\Whats.License\bin\Debug\Whats.License.dll
+D:\Projects\Whats.License\bin\Debug\Whats.License.pdb
+D:\Projects\Whats.License\bin\Debug\Roo.dll
+D:\Projects\Whats.License\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Whats.License\bin\Debug\Mono.Data.Sqlite.dll
+D:\Projects\Whats.License\bin\Debug\Roo.pdb
+D:\Projects\Whats.License\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Whats.License\obj\Debug\Whats.License.csprojResolveAssemblyReference.cache
+D:\Projects\Whats.License\obj\Debug\Whats.License.dll
+D:\Projects\Whats.License\obj\Debug\Whats.License.pdb

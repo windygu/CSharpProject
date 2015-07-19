@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>10.0.30319.1</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5EA05C51-5503-4094-B9C4-1B1740A72EE1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cleaner</RootNamespace>
+    <AssemblyName>Cleaner</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ucc.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Data.Sqlite">
+      <HintPath>..\..\..\Libs\Roo\Roo\Mono.Data.Sqlite.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLLs\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Roo, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Roo\Roo\bin\Debug\Roo.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\ChongZhi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ChongZhi.Designer.cs">
+      <DependentUpon>ChongZhi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Creator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Creator.Designer.cs">
+      <DependentUpon>Creator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PinPaiAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PinPaiAddForm.Designer.cs">
+      <DependentUpon>PinPaiAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\QuYiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\QuYiForm.Designer.cs">
+      <DependentUpon>QuYiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ShouYiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ShouYiForm.Designer.cs">
+      <DependentUpon>ShouYiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ShouYiListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ShouYiListForm.Designer.cs">
+      <DependentUpon>ShouYiListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TextEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TextEditor.Designer.cs">
+      <DependentUpon>TextEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UCC.Designer.cs">
+      <DependentUpon>UCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserForm.Designer.cs">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserListForm.Designer.cs">
+      <DependentUpon>UserListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XiaCiAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XiaCiAddForm.Designer.cs">
+      <DependentUpon>XiaCiAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\YanSeAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\YanSeAddForm.Designer.cs">
+      <DependentUpon>YanSeAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\YiFuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\YiFuForm.Designer.cs">
+      <DependentUpon>YiFuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\YiFuLeiXing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\YiFuLeiXing.Designer.cs">
+      <DependentUpon>YiFuLeiXing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\YiFuListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\YiFuListForm.Designer.cs">
+      <DependentUpon>YiFuListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\YiFuPinPai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\YiFuPinPai.Designer.cs">
+      <DependentUpon>YiFuPinPai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\YiFuPriceList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\YiFuPriceList.Designer.cs">
+      <DependentUpon>YiFuPriceList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\YiFuPriceTypeAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\YiFuPriceTypeAddForm.Designer.cs">
+      <DependentUpon>YiFuPriceTypeAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\YiFuPriceTypeEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\YiFuPriceTypeEditForm.Designer.cs">
+      <DependentUpon>YiFuPriceTypeEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\YiFuXiaCi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\YiFuXiaCi.Designer.cs">
+      <DependentUpon>YiFuXiaCi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\YiFuYanSe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\YiFuYanSe.Designer.cs">
+      <DependentUpon>YiFuYanSe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StoreInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StoreInfoForm.Designer.cs">
+      <DependentUpon>StoreInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\ChongZhi.resx">
+      <DependentUpon>ChongZhi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Creator.resx">
+      <DependentUpon>Creator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PinPaiAddForm.resx">
+      <DependentUpon>PinPaiAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\QuYiForm.resx">
+      <DependentUpon>QuYiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ShouYiForm.resx">
+      <DependentUpon>ShouYiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ShouYiListForm.resx">
+      <DependentUpon>ShouYiListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TextEditor.resx">
+      <DependentUpon>TextEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UCC.resx">
+      <DependentUpon>UCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserForm.resx">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserListForm.resx">
+      <DependentUpon>UserListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\XiaCiAddForm.resx">
+      <DependentUpon>XiaCiAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\YanSeAddForm.resx">
+      <DependentUpon>YanSeAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\YiFuForm.resx">
+      <DependentUpon>YiFuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\YiFuLeiXing.resx">
+      <DependentUpon>YiFuLeiXing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\YiFuListForm.resx">
+      <DependentUpon>YiFuListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\YiFuPinPai.resx">
+      <DependentUpon>YiFuPinPai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\YiFuPriceList.resx">
+      <DependentUpon>YiFuPriceList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\YiFuPriceTypeAddForm.resx">
+      <DependentUpon>YiFuPriceTypeAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\YiFuPriceTypeEditForm.resx">
+      <DependentUpon>YiFuPriceTypeEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\YiFuXiaCi.resx">
+      <DependentUpon>YiFuXiaCi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\YiFuYanSe.resx">
+      <DependentUpon>YiFuYanSe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StoreInfoForm.resx">
+      <DependentUpon>StoreInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Cleaner.Core\Cleaner.Core.csproj">
+      <Project>{18b7ef0a-d4dc-481e-9df4-9a48092df603}</Project>
+      <Name>Cleaner.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Whats.App\Whats.App.csproj">
+      <Project>{80dd805d-7125-4a23-befe-71f99e70ebbd}</Project>
+      <Name>Whats.App</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Whats.UI.WinForm\Whats.UI.WinForm.csproj">
+      <Project>{cc9ef589-7e3f-487b-b2d5-898a4add1ba8}</Project>
+      <Name>Whats.UI.WinForm</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="data\buliangxiaoguo.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\clothes.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\clothes_color.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\clothes_error.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\clothes_name.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\clothes_pinpai.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\clothes_things.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\clothes_type.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\clothes_删除前备份.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\get_type.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\qrcode.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\register_money.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\service_type.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\store_info.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ucc.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

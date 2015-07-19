@@ -1,0 +1,4 @@
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\bin\Release\Cleaner.Core.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\bin\Release\Cleaner.Core.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\obj\Release\Cleaner.Core.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\obj\Release\Cleaner.Core.pdb

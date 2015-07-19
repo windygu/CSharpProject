@@ -1,0 +1,6 @@
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\obj\Release\Whats.QRCode.Properties.Resources.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\obj\Release\Whats.QRCode.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\obj\Release\Whats.QRCode.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\obj\Release\Whats.QRCode.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\Whats.QRCode.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.QRCode\Whats.QRCode.pdb

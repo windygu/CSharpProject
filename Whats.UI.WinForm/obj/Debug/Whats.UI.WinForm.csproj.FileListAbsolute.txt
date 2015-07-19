@@ -1,0 +1,44 @@
+C:\Users\lujiejie\Desktop\UCC\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.dll
+C:\Users\lujiejie\Desktop\UCC\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.pdb
+C:\Users\lujiejie\Desktop\UCC\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\UCC\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.dll
+C:\Users\lujiejie\Desktop\UCC\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.pdb
+C:\Users\lujiejie\Desktop\UCC\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.UIResource.resources
+C:\Users\lujiejie\Desktop\UCC\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.UIResource.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.pdb
+D:\工作目录\Git\UCC-new\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.dll
+D:\工作目录\Git\UCC-new\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.pdb
+D:\工作目录\Git\UCC-new\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.UIResource.resources
+D:\工作目录\Git\UCC-new\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.csproj.GenerateResource.Cache
+D:\工作目录\Git\UCC-new\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.dll
+D:\工作目录\Git\UCC-new\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.UIResource.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.pdb
+D:\Projects\Libs\Whats\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.dll
+D:\Projects\Libs\Whats\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.pdb
+D:\Projects\Libs\Whats\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.csprojResolveAssemblyReference.cache
+D:\Projects\Libs\Whats\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.UIResource.resources
+D:\Projects\Libs\Whats\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.csproj.GenerateResource.Cache
+D:\Projects\Libs\Whats\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.dll
+D:\Projects\Libs\Whats\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.pdb
+D:\Projects\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.dll
+D:\Projects\Whats.UI.WinForm\bin\Debug\Whats.UI.WinForm.pdb
+D:\Projects\Whats.UI.WinForm\bin\Debug\Roo.dll
+D:\Projects\Whats.UI.WinForm\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Whats.UI.WinForm\bin\Debug\Mono.Data.Sqlite.dll
+D:\Projects\Whats.UI.WinForm\bin\Debug\Roo.pdb
+D:\Projects\Whats.UI.WinForm\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.csprojResolveAssemblyReference.cache
+D:\Projects\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.UIResource.resources
+D:\Projects\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.csproj.GenerateResource.Cache
+D:\Projects\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.dll
+D:\Projects\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.pdb

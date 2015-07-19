@@ -1,0 +1,64 @@
+C:\Users\lujiejie\Desktop\UCC\Cleaner.Core\bin\Debug\Cleaner.Core.dll
+C:\Users\lujiejie\Desktop\UCC\Cleaner.Core\bin\Debug\Cleaner.Core.pdb
+C:\Users\lujiejie\Desktop\UCC\Cleaner.Core\obj\Debug\Cleaner.Core.dll
+C:\Users\lujiejie\Desktop\UCC\Cleaner.Core\obj\Debug\Cleaner.Core.pdb
+C:\Users\lujiejie\Desktop\UCC\Cleaner.Core\obj\Debug\Cleaner.Core.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\bin\Debug\Cleaner.Core.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\bin\Debug\Cleaner.Core.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\bin\Debug\Roo.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\bin\Debug\System.Data.SQLite.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\bin\Debug\Roo.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\obj\Debug\Cleaner.Core.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\obj\Debug\Cleaner.Core.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\Cleaner.Core\obj\Debug\Cleaner.Core.pdb
+D:\工作目录\Git\UCC-new\Cleaner.Core\bin\Debug\Cleaner.Core.dll
+D:\工作目录\Git\UCC-new\Cleaner.Core\bin\Debug\Cleaner.Core.pdb
+D:\工作目录\Git\UCC-new\Cleaner.Core\obj\Debug\Cleaner.Core.csprojResolveAssemblyReference.cache
+D:\工作目录\Git\UCC-new\Cleaner.Core\obj\Debug\Cleaner.Core.dll
+D:\工作目录\Git\UCC-new\Cleaner.Core\obj\Debug\Cleaner.Core.pdb
+D:\工作目录\Git\UCC-new\Cleaner.Core\obj\Debug\Cleaner.Core.Resource.resources
+D:\工作目录\Git\UCC-new\Cleaner.Core\obj\Debug\Cleaner.Core.csproj.GenerateResource.Cache
+D:\工作目录\Git\UCC-new\Cleaner.Core\bin\Debug\Roo.dll
+D:\工作目录\Git\UCC-new\Cleaner.Core\bin\Debug\Newtonsoft.Json.dll
+D:\工作目录\Git\UCC-new\Cleaner.Core\bin\Debug\Mono.Data.Sqlite.dll
+D:\工作目录\Git\UCC-new\Cleaner.Core\bin\Debug\Roo.pdb
+D:\工作目录\Git\UCC-new\Cleaner.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Cleaner.Core\bin\Debug\Cleaner.Core.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Cleaner.Core\bin\Debug\Cleaner.Core.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Cleaner.Core\obj\Debug\Cleaner.Core.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Cleaner.Core\obj\Debug\Cleaner.Core.Resource.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Cleaner.Core\obj\Debug\Cleaner.Core.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Cleaner.Core\obj\Debug\Cleaner.Core.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Cleaner.Core\obj\Debug\Cleaner.Core.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Cleaner.Core\bin\Debug\Whats.Cloud.UpYun.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\Cleaner.Core\bin\Debug\Whats.Cloud.UpYun.pdb
+D:\Projects\Products\Cleaner\Cleaner.Core\obj\Debug\Cleaner.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Products\Cleaner\Cleaner.Core\obj\Debug\Cleaner.Core.Resource.resources
+D:\Projects\Products\Cleaner\Cleaner.Core\obj\Debug\Cleaner.Core.csproj.GenerateResource.Cache
+D:\Projects\Products\Cleaner\Cleaner.Core\obj\Debug\Cleaner.Core.dll
+D:\Projects\Products\Cleaner\Cleaner.Core\obj\Debug\Cleaner.Core.pdb
+D:\Projects\Products\Cleaner\Cleaner.Core\bin\Debug\Cleaner.Core.dll
+D:\Projects\Products\Cleaner\Cleaner.Core\bin\Debug\Cleaner.Core.pdb
+D:\Projects\Products\Cleaner\Cleaner.Core\bin\Debug\sqlite3.dll
+D:\Projects\Products\Cleaner\Cleaner.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Products\Cleaner\Cleaner.Core\bin\Debug\Qiniu.4.0.dll
+D:\Projects\Products\Cleaner\Cleaner.Core\bin\Debug\Roo.dll
+D:\Projects\Products\Cleaner\Cleaner.Core\bin\Debug\Mono.Data.Sqlite.dll
+D:\Projects\Products\Cleaner\Cleaner.Core\bin\Debug\Roo.pdb
+D:\Projects\Products\Cleaner\Cleaner.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Cleaner.Core\bin\Debug\Cleaner.Core.dll
+D:\Projects\Cleaner.Core\bin\Debug\Cleaner.Core.pdb
+D:\Projects\Cleaner.Core\bin\Debug\Roo.dll
+D:\Projects\Cleaner.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Cleaner.Core\bin\Debug\Mono.Data.Sqlite.dll
+D:\Projects\Cleaner.Core\bin\Debug\Roo.pdb
+D:\Projects\Cleaner.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Cleaner.Core\obj\Debug\Cleaner.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Cleaner.Core\obj\Debug\Cleaner.Core.Resource.resources
+D:\Projects\Cleaner.Core\obj\Debug\Cleaner.Core.csproj.GenerateResource.Cache
+D:\Projects\Cleaner.Core\obj\Debug\Cleaner.Core.dll
+D:\Projects\Cleaner.Core\obj\Debug\Cleaner.Core.pdb
+D:\Projects\Cleaner.Core\bin\Debug\Whats.Cloud.Qiniu.4.0.dll
+D:\Projects\Cleaner.Core\bin\Debug\Whats.Cloud.Qiniu.4.0.pdb

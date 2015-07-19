@@ -1,0 +1,355 @@
+{
+    "Version": 7,
+    "Descriptions": [
+        {
+            "Name": "backup.config",
+            "Path": "~/backup.config",
+            "MD5": "f27727ae0fd1b82682083d15f573a923",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Cleaner.Core.dll",
+            "Path": "~/Cleaner.Core.dll",
+            "MD5": "15e8fc3b7a1e6c482aa697dab57ffc63",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Cleaner.Core.pdb",
+            "Path": "~/Cleaner.Core.pdb",
+            "MD5": "c6a555afd4a927aa0d4cfd8cc08303da",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Cleaner.exe",
+            "Path": "~/Cleaner.exe",
+            "MD5": "565cf06e40874a0a849513efd68e7c56",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Cleaner.exe.config",
+            "Path": "~/Cleaner.exe.config",
+            "MD5": "e0d80706c31ea90fd5d09fcb3b2d49f9",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Cleaner.pdb",
+            "Path": "~/Cleaner.pdb",
+            "MD5": "acbfcf98bdc983bd418cc683edccdfb4",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Cleaner.vshost.exe",
+            "Path": "~/Cleaner.vshost.exe",
+            "MD5": "dbd8bc6438e1011ca1b796c7a9c78d78",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Cleaner.vshost.exe.config",
+            "Path": "~/Cleaner.vshost.exe.config",
+            "MD5": "e0d80706c31ea90fd5d09fcb3b2d49f9",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "data",
+            "Path": "~/data",
+            "MD5": "",
+            "IsFile": false,
+            "UpdateType": 3
+        },
+        {
+            "Name": "DataBackuper.exe",
+            "Path": "~/DataBackuper.exe",
+            "MD5": "473a4809640413984bcaf1543e8cd33c",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "DataBackuper.exe.config",
+            "Path": "~/DataBackuper.exe.config",
+            "MD5": "3f9b7c50015ca8be5ec84127bb37e2cb",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "DataBackuper.pdb",
+            "Path": "~/DataBackuper.pdb",
+            "MD5": "4acc4a78ba7e22788e329a08163d1e13",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "DataBackuper.vshost.exe",
+            "Path": "~/DataBackuper.vshost.exe",
+            "MD5": "dbd8bc6438e1011ca1b796c7a9c78d78",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "DataBackuper.vshost.exe.config",
+            "Path": "~/DataBackuper.vshost.exe.config",
+            "MD5": "3f9b7c50015ca8be5ec84127bb37e2cb",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "db - 修改了数据模型的生产数据.db",
+            "Path": "~/db - 修改了数据模型的生产数据.db",
+            "MD5": "6c7f311fba602ef494d67f8341dd3125",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "db_complete.db",
+            "Path": "~/db_complete.db",
+            "MD5": "8a6f65ae7fe54216f8a90b880a85e6ee",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "File.zip",
+            "Path": "~/File.zip",
+            "MD5": "8b9f31b73ba10445cf2d63410f56fb60",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Mono.Data.Sqlite.dll",
+            "Path": "~/Mono.Data.Sqlite.dll",
+            "MD5": "2a00056ffc610eaa1726756003bcd1f2",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Newtonsoft.Json.dll",
+            "Path": "~/Newtonsoft.Json.dll",
+            "MD5": "5e02ddaf3b02e43e532fc6a52b04d14b",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Newtonsoft.Json.xml",
+            "Path": "~/Newtonsoft.Json.xml",
+            "MD5": "0ff0ca43def6d1281a92f5d69f7e93a6",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "NEWUCC.vshost.exe.config",
+            "Path": "~/NEWUCC.vshost.exe.config",
+            "MD5": "e0d80706c31ea90fd5d09fcb3b2d49f9",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "NEWUCC_20150528_2.zip",
+            "Path": "~/NEWUCC_20150528_2.zip",
+            "MD5": "e6c41ae078e938ffb7a62d8c763e394a",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Qiniu.4.0.dll",
+            "Path": "~/Qiniu.4.0.dll",
+            "MD5": "78d2eae2dceee456d92dfed5c1d6a741",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Roo.dll",
+            "Path": "~/Roo.dll",
+            "MD5": "c636503529581be616c8eece211cd58c",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Roo.pdb",
+            "Path": "~/Roo.pdb",
+            "MD5": "a5cc39080fa91fe98ded4d947e45a963",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "sqlite3.dll",
+            "Path": "~/sqlite3.dll",
+            "MD5": "135bfd08876ac64c94ae1256d65860fe",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Updater.pdb",
+            "Path": "~/Updater.pdb",
+            "MD5": "cc125e6265891d2c036838a6a1dbe88a",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Updater.vshost.exe",
+            "Path": "~/Updater.vshost.exe",
+            "MD5": "5d7cce87c06eb3a74ad83820c9dca101",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Updater.vshost.exe.config",
+            "Path": "~/Updater.vshost.exe.config",
+            "MD5": "87e4fdd106d71ec796e94c3b0ef5fe0d",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Whats.Cloud.dll",
+            "Path": "~/Whats.Cloud.dll",
+            "MD5": "d24b008ec0bb296b244b1de11fc9f1f6",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Whats.Cloud.pdb",
+            "Path": "~/Whats.Cloud.pdb",
+            "MD5": "a9e34cf02bb25ffed355a0ad786660ac",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Whats.Cloud.Qiniu.4.0.dll",
+            "Path": "~/Whats.Cloud.Qiniu.4.0.dll",
+            "MD5": "70fb93c48cfdfc76821dfda48e96840d",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Whats.Cloud.Qiniu.4.0.pdb",
+            "Path": "~/Whats.Cloud.Qiniu.4.0.pdb",
+            "MD5": "6835362a7efbf28c38a322e2b626bbd3",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Whats.UI.WinForm.dll",
+            "Path": "~/Whats.UI.WinForm.dll",
+            "MD5": "2a50c4520f44e7a47668e1a47d66cf4b",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Whats.UI.WinForm.pdb",
+            "Path": "~/Whats.UI.WinForm.pdb",
+            "MD5": "f45493c277563f2e8ceb3d7f12a7be4b",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Whats.Updater.dll",
+            "Path": "~/Whats.Updater.dll",
+            "MD5": "b410fba331e92d2c4c658013e067e8b3",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "Whats.Updater.pdb",
+            "Path": "~/Whats.Updater.pdb",
+            "MD5": "3d28d0e89d6117fb624d0c2afb3aebe8",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "buliangxiaoguo.txt",
+            "Path": "~/data/buliangxiaoguo.txt",
+            "MD5": "539b760b86452ce521cccc994a9b6825",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "clothes.txt",
+            "Path": "~/data/clothes.txt",
+            "MD5": "a6239f36cc6953672fafea81a2ab584d",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "clothes_color.txt",
+            "Path": "~/data/clothes_color.txt",
+            "MD5": "cff83fe85d149a7e350883c9d194857b",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "clothes_error.txt",
+            "Path": "~/data/clothes_error.txt",
+            "MD5": "b070c82100a57be2646fc1794b3cde8d",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "clothes_name.txt",
+            "Path": "~/data/clothes_name.txt",
+            "MD5": "eb3a3812e53bfa5b13af5995b8c6afbd",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "clothes_pinpai.txt",
+            "Path": "~/data/clothes_pinpai.txt",
+            "MD5": "833a89f074b52e4b5b44ee767789f49d",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "clothes_things.txt",
+            "Path": "~/data/clothes_things.txt",
+            "MD5": "f0c569e91d034bbacb920732a669823a",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "clothes_type.txt",
+            "Path": "~/data/clothes_type.txt",
+            "MD5": "247a29c388caaebf873d98420d01f6d8",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "clothes_删除前备份.txt",
+            "Path": "~/data/clothes_删除前备份.txt",
+            "MD5": "6db547da7800d8e4322ab7a3ecf9b726",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "get_type.txt",
+            "Path": "~/data/get_type.txt",
+            "MD5": "2f68f378f550179d1b29edbb1ae4018b",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "register_money.txt",
+            "Path": "~/data/register_money.txt",
+            "MD5": "75a8e8e4ea4ef1f681c5ae8bc3bb3c40",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "service_type.txt",
+            "Path": "~/data/service_type.txt",
+            "MD5": "6801918fe5a8f194223df73b40fb0007",
+            "IsFile": true,
+            "UpdateType": 3
+        },
+        {
+            "Name": "store_info.txt",
+            "Path": "~/data/store_info.txt",
+            "MD5": "121404164b361ae366225403b236e8a5",
+            "IsFile": true,
+            "UpdateType": 3
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+D:\Projects\Whats.Installer.CompileClient\obj\Debug\Whats.Installer.CompileClient.Properties.Resources.resources
+D:\Projects\Whats.Installer.CompileClient\obj\Debug\Whats.Installer.CompileClient.csproj.GenerateResource.Cache
+D:\Projects\Whats.Installer.CompileClient\bin\Debug\Start.exe.config
+D:\Projects\Whats.Installer.CompileClient\bin\Debug\Start.exe
+D:\Projects\Whats.Installer.CompileClient\bin\Debug\Start.pdb
+D:\Projects\Whats.Installer.CompileClient\obj\Debug\Start.exe
+D:\Projects\Whats.Installer.CompileClient\obj\Debug\Start.pdb
+D:\Projects\Whats.Installer.CompileClient\obj\Debug\Whats.Installer.CompileClient.Start.resources
+D:\Projects\Whats.Installer.CompileClient\obj\Debug\Whats.Installer.CompileClient.Main.resources
+D:\Projects\Whats.Installer.CompileClient\obj\Debug\Whats.Installer.CompileClient.UnStart.resources
+D:\Projects\Whats.Installer.CompileClient\obj\Debug\Whats.Installer.CompileClient.csprojResolveAssemblyReference.cache

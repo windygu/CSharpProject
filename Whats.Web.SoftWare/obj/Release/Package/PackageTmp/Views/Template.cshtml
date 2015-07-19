@@ -1,0 +1,97 @@
+﻿@{
+    ViewBag.Title = "首页";
+    Layout = null;
+}
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>@ViewBag.Title--自由袋鼠软件工作室</title>
+<meta name="description" content="">
+
+    <link href="/public/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/public/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/public/css/prettyPhoto.css" rel="stylesheet">
+    <link href="/public/css/main.css" rel="stylesheet">
+    <link href="/public/css/responsive.css" rel="stylesheet">
+
+</head>
+
+<body class="homepage">
+<header id="header">
+  <nav class="navbar navbar-inverse" role="banner">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand" href="index.html"><i class="fa fa-bolt"></i> 自由袋鼠工作室</a></a> </div>
+      <div class="collapse navbar-collapse navbar-right">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="/Home/Index">首页</a></li>
+          <li><a href="/Home/Index">关于</a></li>
+          <li><a href="/Home/Index">服务</a></li>
+          <li><a href="/Home/Index">类型</a></li>
+          <li><a href="/Home/Price">价格</a></li>
+          <li><a href="/Home/ContactUs">联系我们</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+</header>
+
+@RenderBody();
+
+<div class="color-border"> </div>
+
+<section id="feature" >
+  <div class="container">
+    <div class="center">
+      <h2>我们的业务内容</h2>
+      <p class="lead">自由袋鼠工作室</p>
+    </div>
+    <div class="row">
+      <div class="features">
+        <div class="col-md-4 col-sm-6">
+          <div class="feature-wrap"> <i class="fa fa-desktop"></i>
+            <h2>网站</h2>
+            <h3>各行各业各个平台的各类网站项目</h3>
+          </div>
+        </div>
+        
+        <div class="col-md-4 col-sm-6">
+          <div class="feature-wrap"> <i class="fa fa-cogs"></i>
+            <h2>手机APP</h2>
+            <h3>符合客户需求的安卓，IOS手机APP</h3>
+          </div>
+        </div>
+        
+        <div class="col-md-4 col-sm-6">
+          <div class="feature-wrap"> <i class="fa fa-rocket"></i>
+            <h2>Windows桌面程序</h2>
+            <h3>定制化Windows桌面程序，各项行业软件</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="color-border"> </div>
+<footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6">Copyright &copy; 2015 自由袋鼠工作室 <a href="http://www.freeroo.software/" target="_blank" title="自由袋鼠工作室">自由袋鼠工作室</a></div>
+      <div class="col-sm-6">
+        <div class="follow-us"> <a class="fa fa-facebook social-icon" href="#"></a> <a class="fa fa-twitter social-icon" href="#"></a> <a class="fa fa-linkedin social-icon" href="#"></a> <a class="fa fa-google-plus social-icon" href="#"></a> </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    <script src="/public/js/jquery.js"></script> 
+    <script src="/public/js/bootstrap.min.js"></script> 
+    <script src="/public/js/jquery.prettyPhoto.js"></script> 
+    <script src="/public/js/jquery.isotope.min.js"></script> 
+    <script src="/public/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CC9EF589-7E3F-487B-B2D5-898A4ADD1BA8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Whats.UI.WinForm</RootNamespace>
+    <AssemblyName>Whats.UI.WinForm</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ColorPool.cs" />
+    <Compile Include="UIButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UIControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UIDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UIDataGridViewCell.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UIDataGridViewHeader.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UIDataGridViewInputBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UIDataGridViewItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UIDataInputType.cs" />
+    <Compile Include="UIListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UIModulePanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UISelectDataPanel.cs" />
+    <Compile Include="UITabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UIResource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UIResource.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="UIResource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>UIResource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TabButtonBackground.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Roo\Roo.csproj">
+      <Project>{e718efac-451a-41a5-831b-8afbed0269be}</Project>
+      <Name>Roo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Article";
+    Layout = "~/Views/Template.cshtml";
+}
+
+@model FreeRoo.Article
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">
+            @Model.ATitle
+        </h3>
+    </div>
+
+    <div class="panel-body">
+        @FreeRoo.StringHelper.SubString(FreeRoo.StringHelper.RemoveHtmlTag(Model.AContent), 0, 150);
+    </div>
+</div>

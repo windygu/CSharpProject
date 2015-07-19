@@ -1,0 +1,270 @@
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\NEWUCC.exe
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\NEWUCC.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.ChongZhi.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.Properties.Resources.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.QuYiForm.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.RegisterForm.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.ShouYiForm.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.UCC.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.exe
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.YiFuForm.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPinPai.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.YiFuXiaCi.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\obj\x86\Debug\NEWUCC.YiFuYanSe.resources
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\NEWUCC.exe.config
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\Cleaner.Core.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\Roo.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\Whats.UI.WinForm.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\System.Data.SQLite.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\Cleaner.Core.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\Roo.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\Whats.UI.WinForm.pdb
+C:\Users\lujiejie\Desktop\文档\UCC-take to home\NEWUCC\bin\Debug\Newtonsoft.Json.xml
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\NEWUCC.exe.config
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.exe
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.pdb
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\NEWUCC.exe
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\NEWUCC.pdb
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\Cleaner.Core.dll
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\Roo.dll
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\Whats.UI.WinForm.dll
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\Newtonsoft.Json.dll
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\Cleaner.Core.pdb
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\Roo.pdb
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\Whats.UI.WinForm.pdb
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\Newtonsoft.Json.xml
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.csprojResolveAssemblyReference.cache
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.ChongZhi.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.Properties.Resources.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.QuYiForm.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.RegisterForm.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.ShouYiForm.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.UCC.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.YiFuForm.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPinPai.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.YiFuXiaCi.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.YiFuYanSe.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.csproj.GenerateResource.Cache
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.YiFuLeiXing.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.UserForm.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.UserListForm.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.TextEditor.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.XiaCiAddForm.resources
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\Mono.Data.Sqlite.dll
+D:\工作目录\Git\UCC-new\NEWUCC\bin\Debug\Qiniu.4.0.dll
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.DataBackUpForm.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.PinPaiAddForm.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.YanSeAddForm.resources
+D:\工作目录\Git\UCC-new\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceTypeAddForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\NEWUCC.exe.config
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\NEWUCC.exe
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\NEWUCC.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\Cleaner.Core.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\Qiniu.4.0.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\Whats.UI.WinForm.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\Cleaner.Core.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\Whats.UI.WinForm.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\Roo.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.csprojResolveAssemblyReference.cache
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.ChongZhi.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.DataBackUpForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.PinPaiAddForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.Properties.Resources.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.RegisterForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.QuYiForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.ShouYiForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.TextEditor.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.UCC.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.UserForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.UserListForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.XiaCiAddForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.YanSeAddForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.YiFuForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.YiFuLeiXing.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPinPai.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceTypeAddForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.YiFuXiaCi.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.YiFuYanSe.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.csproj.GenerateResource.Cache
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.exe
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.YiFuListForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\buliangxiaoguo.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\clothes.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\clothes_color.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\clothes_error.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\clothes_name.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\clothes_pinpai.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\clothes_things.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\clothes_type.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\clothes_删除前备份.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\get_type.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\register_money.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\service_type.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\data\store_info.txt
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NewUCCDataCreator.Creator.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceList.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceTypeEditForm.resources
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\Whats.Cloud.UpYun.dll
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\bin\Debug\Whats.Cloud.UpYun.pdb
+C:\Users\lujiejie\Desktop\UCC-new-complete-first\NEWUCC\obj\x86\Debug\NEWUCC.ShouYiListForm.resources
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\NEWUCC.exe.config
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.exe
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.pdb
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\buliangxiaoguo.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\clothes.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\clothes_color.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\clothes_error.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\clothes_name.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\clothes_pinpai.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\clothes_things.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\clothes_type.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\clothes_删除前备份.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\get_type.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\register_money.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\service_type.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\data\store_info.txt
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\NEWUCC.exe
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\NEWUCC.pdb
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Cleaner.Core.dll
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Newtonsoft.Json.dll
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Qiniu.4.0.dll
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Roo.dll
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Whats.UI.WinForm.dll
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Whats.Cloud.UpYun.dll
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Mono.Data.Sqlite.dll
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Cleaner.Core.pdb
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Whats.UI.WinForm.pdb
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Newtonsoft.Json.xml
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Roo.pdb
+D:\工作目录\Git\UCC\NEWUCC\bin\Debug\Whats.Cloud.UpYun.pdb
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.csprojResolveAssemblyReference.cache
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.ChongZhi.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NewUCCDataCreator.Creator.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.DataBackUpForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.PinPaiAddForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.Properties.Resources.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.RegisterForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.QuYiForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.ShouYiForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.ShouYiListForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.TextEditor.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.UCC.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.UserForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.UserListForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.XiaCiAddForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.YanSeAddForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.YiFuForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.YiFuLeiXing.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.YiFuListForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPinPai.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceList.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceTypeAddForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceTypeEditForm.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.YiFuXiaCi.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.YiFuYanSe.resources
+D:\工作目录\Git\UCC\NEWUCC\obj\x86\Debug\NEWUCC.csproj.GenerateResource.Cache
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\NEWUCC.exe.config
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.exe
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.pdb
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\sqlite3.dll
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\buliangxiaoguo.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\clothes.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\clothes_color.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\clothes_error.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\clothes_name.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\clothes_pinpai.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\clothes_things.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\clothes_type.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\clothes_删除前备份.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\get_type.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\register_money.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\service_type.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\data\store_info.txt
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\NEWUCC.exe
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\NEWUCC.pdb
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\Cleaner.Core.dll
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\Qiniu.4.0.dll
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\Cleaner.Core.pdb
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.csprojResolveAssemblyReference.cache
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.ChongZhi.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NewUCCDataCreator.Creator.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.PinPaiAddForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.Properties.Resources.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.RegisterForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.QuYiForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.ShouYiForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.ShouYiListForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.TextEditor.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.UCC.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.UserForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.UserListForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.XiaCiAddForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.YanSeAddForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.YiFuForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.YiFuLeiXing.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.YiFuListForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPinPai.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceList.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceTypeAddForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceTypeEditForm.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.YiFuXiaCi.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.YiFuYanSe.resources
+D:\Projects\Products\Cleaner\NEWUCC\obj\x86\Debug\NEWUCC.csproj.GenerateResource.Cache
+D:\Projects\Products\Cleaner\NEWUCC\bin\Debug\Mono.Data.Sqlite.dll
+D:\Projects\NEWUCC\bin\Debug\data\buliangxiaoguo.txt
+D:\Projects\NEWUCC\bin\Debug\data\clothes.txt
+D:\Projects\NEWUCC\bin\Debug\data\clothes_color.txt
+D:\Projects\NEWUCC\bin\Debug\data\clothes_error.txt
+D:\Projects\NEWUCC\bin\Debug\data\clothes_name.txt
+D:\Projects\NEWUCC\bin\Debug\data\clothes_pinpai.txt
+D:\Projects\NEWUCC\bin\Debug\data\clothes_things.txt
+D:\Projects\NEWUCC\bin\Debug\data\clothes_type.txt
+D:\Projects\NEWUCC\bin\Debug\data\clothes_删除前备份.txt
+D:\Projects\NEWUCC\bin\Debug\data\get_type.txt
+D:\Projects\NEWUCC\bin\Debug\data\register_money.txt
+D:\Projects\NEWUCC\bin\Debug\data\service_type.txt
+D:\Projects\NEWUCC\bin\Debug\data\store_info.txt
+D:\Projects\NEWUCC\bin\Debug\Cleaner.exe.config
+D:\Projects\NEWUCC\bin\Debug\Cleaner.exe
+D:\Projects\NEWUCC\bin\Debug\Cleaner.pdb
+D:\Projects\NEWUCC\bin\Debug\Cleaner.Core.dll
+D:\Projects\NEWUCC\bin\Debug\Whats.UI.WinForm.dll
+D:\Projects\NEWUCC\bin\Debug\Cleaner.Core.pdb
+D:\Projects\NEWUCC\bin\Debug\Whats.UI.WinForm.pdb
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.csprojResolveAssemblyReference.cache
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.ChongZhi.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NewUCCDataCreator.Creator.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.PinPaiAddForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.Properties.Resources.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.RegisterForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.QuYiForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.ShouYiForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.ShouYiListForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.TextEditor.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.UCC.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.UserForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.UserListForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.XiaCiAddForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.YanSeAddForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.YiFuForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.YiFuLeiXing.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.YiFuListForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPinPai.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceList.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceTypeAddForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.YiFuPriceTypeEditForm.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.YiFuXiaCi.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.YiFuYanSe.resources
+D:\Projects\NEWUCC\obj\x86\Debug\NEWUCC.csproj.GenerateResource.Cache
+D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.exe
+D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.pdb
+D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.StoreInfoForm.resources
+D:\Projects\NEWUCC\bin\Debug\data\qrcode.jpg

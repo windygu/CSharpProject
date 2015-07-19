@@ -1,0 +1,8 @@
+{
+    "IsAutoStart": false,
+    "IsInQuickMenu": false,
+    "IsInStartMenu": true,
+    "IsInDeskTop": true,
+    "IsAutoCloudBackupData": true,
+    "IsAutoCheckUpdate": true
+}

@@ -1,0 +1,14 @@
+D:\Projects\Libs\Whats\Whats.Qiniu\bin\Debug\4.0\Whats.Cloud.Qiniu.4.0.dll.config
+D:\Projects\Libs\Whats\Whats.Qiniu\bin\Debug\4.0\Qiniu.XML
+D:\Projects\Libs\Whats\Whats.Qiniu\bin\Debug\4.0\Whats.Cloud.Qiniu.4.0.dll
+D:\Projects\Libs\Whats\Whats.Qiniu\bin\Debug\4.0\Whats.Cloud.Qiniu.4.0.pdb
+D:\Projects\Libs\Whats\Whats.Qiniu\bin\Debug\4.0\Newtonsoft.Json.dll
+D:\Projects\Libs\Whats\Whats.Qiniu\obj\x86\Debug\Whats.Cloud.Qiniu.4.0.dll
+D:\Projects\Libs\Whats\Whats.Qiniu\obj\x86\Debug\Whats.Cloud.Qiniu.4.0.pdb
+D:\Projects\Whats.Qiniu\bin\Debug\4.0\Whats.Cloud.Qiniu.4.0.dll.config
+D:\Projects\Whats.Qiniu\bin\Debug\4.0\Qiniu.XML
+D:\Projects\Whats.Qiniu\bin\Debug\4.0\Whats.Cloud.Qiniu.4.0.dll
+D:\Projects\Whats.Qiniu\bin\Debug\4.0\Whats.Cloud.Qiniu.4.0.pdb
+D:\Projects\Whats.Qiniu\bin\Debug\4.0\Newtonsoft.Json.dll
+D:\Projects\Whats.Qiniu\obj\x86\Debug\Whats.Cloud.Qiniu.4.0.dll
+D:\Projects\Whats.Qiniu\obj\x86\Debug\Whats.Cloud.Qiniu.4.0.pdb

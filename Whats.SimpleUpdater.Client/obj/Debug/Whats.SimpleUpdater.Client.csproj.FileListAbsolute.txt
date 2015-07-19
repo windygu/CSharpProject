@@ -1,0 +1,9 @@
+D:\Projects\Whats.SimpleUpdater.Client\obj\Debug\Whats.SimpleUpdater.Client.Properties.Resources.resources
+D:\Projects\Whats.SimpleUpdater.Client\obj\Debug\Whats.SimpleUpdater.Client.Update.resources
+D:\Projects\Whats.SimpleUpdater.Client\obj\Debug\Whats.SimpleUpdater.Client.csproj.GenerateResource.Cache
+D:\Projects\Whats.SimpleUpdater.Client\obj\Debug\Updater.exe
+D:\Projects\Whats.SimpleUpdater.Client\obj\Debug\Updater.pdb
+D:\Projects\NEWUCC\bin\Debug\config\seat.txt
+D:\Projects\NEWUCC\bin\Debug\Updater.exe.config
+D:\Projects\NEWUCC\bin\Debug\Updater.exe
+D:\Projects\NEWUCC\bin\Debug\Updater.pdb

@@ -1,0 +1,16 @@
+D:\Projects\Whats.License.Client\bin\Debug\Whats.License.Client.exe.config
+D:\Projects\Whats.License.Client\obj\Debug\Whats.License.Client.LicenseClient.resources
+D:\Projects\Whats.License.Client\obj\Debug\Whats.License.Client.Properties.Resources.resources
+D:\Projects\Whats.License.Client\obj\Debug\Whats.License.Client.csproj.GenerateResource.Cache
+D:\Projects\Whats.License.Client\bin\Debug\Whats.License.Client.exe
+D:\Projects\Whats.License.Client\bin\Debug\Whats.License.Client.pdb
+D:\Projects\Whats.License.Client\bin\Debug\Whats.License.dll
+D:\Projects\Whats.License.Client\bin\Debug\Roo.dll
+D:\Projects\Whats.License.Client\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Whats.License.Client\bin\Debug\Mono.Data.Sqlite.dll
+D:\Projects\Whats.License.Client\bin\Debug\Whats.License.pdb
+D:\Projects\Whats.License.Client\bin\Debug\Roo.pdb
+D:\Projects\Whats.License.Client\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Whats.License.Client\obj\Debug\Whats.License.Client.exe
+D:\Projects\Whats.License.Client\obj\Debug\Whats.License.Client.pdb
+D:\Projects\Whats.License.Client\obj\Debug\Whats.License.Client.csprojResolveAssemblyReference.cache

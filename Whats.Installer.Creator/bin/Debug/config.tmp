@@ -1,0 +1,15 @@
+[Dirs]
+~/lib=0
+~/update_tmp=0
+[Files]
+~/Newtonsoft.Json.dll=504320
+~/Roo.dll=117760
+~/source.txt=10
+~/System.Data.SQLite.dll=1050624
+~/update.json=164
+~/Updater.exe=9728
+~/Whats.Updater.dll=11264
+~/lib/lib.txt=0
+~/update_tmp/update.json=632
+[Info]
+Length=1694555

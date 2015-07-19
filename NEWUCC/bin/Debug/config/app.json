@@ -1,0 +1,15 @@
+{
+    "Version": 1,
+    "AppTitle": "杰洁洗衣店管理软件",
+    "Author": "卢杰杰",
+    "HomePage": "http://freeroo.software",
+    "Copyright": "Copyright 版权所有",
+    "ExeName": "Cleaner.exe",
+    "AppName": "Cleaner",
+    "UpdateExe": "D:\\Projects\\NEWUCC\\bin\\Debug\\Update.exe",
+    "UnInstallExe": "D:\\Projects\\NEWUCC\\bin\\Debug\\UnInstall.exe",
+    "InstallPath": "C:\\Program Files/Cleaner",
+    "DataPath": "C:\\Program Files/CleanerData",
+    "SettingsPath": "D:\\Projects\\NEWUCC\\bin\\Debug\\config/settings.json",
+    "VersionUrl": "http://update.freeroo.xyz/Cleaner/version.json"
+}
