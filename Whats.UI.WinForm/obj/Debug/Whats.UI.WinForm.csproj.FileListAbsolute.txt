@@ -37,7 +37,6 @@ D:\Projects\Whats.UI.WinForm\bin\Debug\Newtonsoft.Json.dll
 D:\Projects\Whats.UI.WinForm\bin\Debug\Mono.Data.Sqlite.dll
 D:\Projects\Whats.UI.WinForm\bin\Debug\Roo.pdb
 D:\Projects\Whats.UI.WinForm\bin\Debug\Newtonsoft.Json.xml
-D:\Projects\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.csprojResolveAssemblyReference.cache
 D:\Projects\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.UIResource.resources
 D:\Projects\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.csproj.GenerateResource.Cache
 D:\Projects\Whats.UI.WinForm\obj\Debug\Whats.UI.WinForm.dll

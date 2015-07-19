@@ -53,5 +53,6 @@ D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.SettingsForm.resources
 D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.csproj.GenerateResource.Cache
 D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.exe
 D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.pdb
-D:\Projects\NEWUCC\bin\Debug\Roo.pdb
 D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.csprojResolveAssemblyReference.cache
+D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.PrintMoneyTicket.resources
+D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.MoneyHistoryList.resources

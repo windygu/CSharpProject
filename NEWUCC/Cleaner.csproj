@@ -115,6 +115,18 @@
     <Compile Include="Forms\UCC.Designer.cs">
       <DependentUpon>UCC.cs</DependentUpon>
     </Compile>
+    <Compile Include="MoneyHistoryList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoneyHistoryList.Designer.cs">
+      <DependentUpon>MoneyHistoryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintMoneyTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintMoneyTicket.Designer.cs">
+      <DependentUpon>PrintMoneyTicket.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Forms\UserForm.cs">
@@ -215,6 +227,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\PinPaiAddForm.resx">
       <DependentUpon>PinPaiAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoneyHistoryList.resx">
+      <DependentUpon>MoneyHistoryList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintMoneyTicket.resx">
+      <DependentUpon>PrintMoneyTicket.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

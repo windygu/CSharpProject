@@ -60,7 +60,16 @@ namespace Whats.UI.WinForm
                 {
                     var value = property.GetValue(item, null);
                     if (value != null)
-                        lvi.SubItems.Add(value.ToString());
+                    {
+                        if(property.PropertyType.FullName==typeof(DateTime).FullName)
+                        {
+                            lvi.SubItems.Add(((DateTime)value).ToString("yy年MM月dd日"));
+                        }
+                        else
+                        {
+                            lvi.SubItems.Add(value.ToString());
+                        }
+                    }
                     else
                         lvi.SubItems.Add("");
                 }

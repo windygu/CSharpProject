@@ -2,7 +2,7 @@
 
 namespace Cleaner.Core
 {
-    [DataObject("YiFuPriceType", "YiFuPriceID")]
+    [DataObject("PriceTable", "YiFuPriceID")]
     public class YiFuPriceType
     {
         [DataField("NVARCHAR(50)", IsPrimary = true)]
@@ -19,6 +19,9 @@ namespace Cleaner.Core
 
         [DataField("INT")]
         public int IsZheKou { get; set; }
+
+        [DataField("NVARCHAR(50)")]
+        public int Cat { get; set; }
 
     }
 }

@@ -189,5 +189,17 @@ namespace NEWUCC
             Cleaner.SettingsForm form = new Cleaner.SettingsForm();
             form.ShowDialog();
         }
+
+        private void txtKouFei_Click(object sender, EventArgs e)
+        {
+            Cleaner.PrintMoneyTicket form = new Cleaner.PrintMoneyTicket();
+            form.ShowDialog();
+        }
+
+        private void btnMoneyHistoryList_Click(object sender, EventArgs e)
+        {
+            Cleaner.MoneyHistoryList form = new Cleaner.MoneyHistoryList();
+            form.ShowDialog();
+        }
     }
 }

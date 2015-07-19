@@ -46,6 +46,8 @@
             this.btnData = new System.Windows.Forms.Button();
             this.txtStoreInfo = new System.Windows.Forms.Button();
             this.btnSettings = new System.Windows.Forms.Button();
+            this.txtKouFei = new System.Windows.Forms.Button();
+            this.btnMoneyHistoryList = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnShouYi
@@ -235,11 +237,35 @@
             this.btnSettings.UseVisualStyleBackColor = true;
             this.btnSettings.Click += new System.EventHandler(this.btnSettings_Click);
             // 
+            // txtKouFei
+            // 
+            this.txtKouFei.Location = new System.Drawing.Point(240, 303);
+            this.txtKouFei.Margin = new System.Windows.Forms.Padding(5);
+            this.txtKouFei.Name = "txtKouFei";
+            this.txtKouFei.Size = new System.Drawing.Size(100, 100);
+            this.txtKouFei.TabIndex = 17;
+            this.txtKouFei.Text = "收费打印";
+            this.txtKouFei.UseVisualStyleBackColor = true;
+            this.txtKouFei.Click += new System.EventHandler(this.txtKouFei_Click);
+            // 
+            // btnMoneyHistoryList
+            // 
+            this.btnMoneyHistoryList.Location = new System.Drawing.Point(350, 303);
+            this.btnMoneyHistoryList.Margin = new System.Windows.Forms.Padding(5);
+            this.btnMoneyHistoryList.Name = "btnMoneyHistoryList";
+            this.btnMoneyHistoryList.Size = new System.Drawing.Size(100, 100);
+            this.btnMoneyHistoryList.TabIndex = 18;
+            this.btnMoneyHistoryList.Text = "收费记录";
+            this.btnMoneyHistoryList.UseVisualStyleBackColor = true;
+            this.btnMoneyHistoryList.Click += new System.EventHandler(this.btnMoneyHistoryList_Click);
+            // 
             // UCC
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(700, 608);
+            this.Controls.Add(this.btnMoneyHistoryList);
+            this.Controls.Add(this.txtKouFei);
             this.Controls.Add(this.btnSettings);
             this.Controls.Add(this.txtStoreInfo);
             this.Controls.Add(this.btnData);
@@ -288,6 +314,8 @@
         private System.Windows.Forms.Button btnData;
         private System.Windows.Forms.Button txtStoreInfo;
         private System.Windows.Forms.Button btnSettings;
+        private System.Windows.Forms.Button txtKouFei;
+        private System.Windows.Forms.Button btnMoneyHistoryList;
     }
 }
 
