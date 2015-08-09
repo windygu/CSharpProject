@@ -8,6 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using Cleaner.Core;
 using Roo.Data;
+using Whats.Core;
 
 namespace NEWUCC
 {
@@ -17,7 +18,26 @@ namespace NEWUCC
         public int Index = 1;
         public YiFuForm()
         {
-            InitializeComponent(); 
+            InitializeComponent();
+            this.yifuTypeList.DoubleClick += yifuTypeList_DoubleClick;
+            this.Controls.Add(yifuTypeList);
+            this.yifuTypeList.Hide();
+            //this.txtClotheType.LostFocus += txtClotheType_LostFocus;
+        }
+
+        void txtClotheType_LostFocus(object sender, EventArgs e)
+        {
+            this.yifuTypeList.Hide();
+        }
+
+        void yifuTypeList_DoubleClick(object sender, EventArgs e)
+        {
+            this.txtClotheType.Text = this.yifuTypeList.SelectedItem.ToString();
+            this.yifuTypeList.Hide();
+            YiFuPriceType type=new YiFuPriceType();
+            type.YiFuName=this.txtClotheType.Text;
+            type = UccRuntime.Dop.SelectSingle(type) as YiFuPriceType;
+            this.txtPrice.Text = type.Price;
         }
         public void Bind(YiFu yifu)
         {
@@ -30,6 +50,7 @@ namespace NEWUCC
             this.txtPrice.Text = yifu.Price;
             this.txtBeiZhu.Text = yifu.BeiZhu;
             this.txtXiaCi.Text = yifu.XiaCi;
+            this.yifuTypeList.Hide();
         }
 
         private void YiFuForm_Load(object sender, EventArgs e)
@@ -85,6 +106,7 @@ namespace NEWUCC
                 return;
             this.txtClotheType.Text = YiFuLeiXing.Result.YiFuName;
             this.txtPrice.Text = YiFuLeiXing.Result.Price;
+            this.yifuTypeList.Hide();
         }
 
         private void btnPinPai_Click(object sender, EventArgs e)
@@ -106,6 +128,65 @@ namespace NEWUCC
         private void YiFuForm_FormClosing(object sender, FormClosingEventArgs e)
         {
             
+        }
+        ListBox yifuTypeList = new ListBox();
+
+        private void txtClotheType_TextChanged(object sender, EventArgs e)
+        {
+            yifuTypeList.Items.Clear();
+            if(this.txtClotheType.Text.Length>0){
+                if (!Char.IsLetter(this.txtClotheType.Text[0]))
+                {
+                    this.yifuTypeList.Hide();
+                    return;
+                }
+            }
+            var items = UccRuntime.Dop.SelectAll<YiFuPriceType>(new YiFuPriceType());
+            
+            if (items == null)
+                return;
+            if (items.Count > 0)
+            {
+
+                foreach (var item in items)
+                {
+                    var pinYin = PinYinConverter.Get(item.YiFuName).ToLower();
+                    if (pinYin.StartsWith(this.txtClotheType.Text.ToLower()))
+                    {
+                        yifuTypeList.Items.Add(item.YiFuName);
+                    }
+                    else
+                    {
+                        pinYin = PinYinConverter.GetFirst(item.YiFuName).ToLower();
+                        if (pinYin.StartsWith(this.txtClotheType.Text.ToLower()))
+                            yifuTypeList.Items.Add(item.YiFuName);
+                    }
+                    
+                }
+                yifuTypeList.Location = new Point(this.txtClotheType.Location.X, this.txtClotheType.Location.Y + this.txtClotheType.Height);
+                yifuTypeList.Height = this.Height / 2;
+                this.yifuTypeList.Width = this.Width / 2;
+                this.yifuTypeList.Show();
+                yifuTypeList.BringToFront();
+            }
+        }
+
+        private void txtClotheType_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.PageDown)
+            {
+                if (this.yifuTypeList.SelectedIndex < this.yifuTypeList.Items.Count - 1)
+                {
+                    this.yifuTypeList.SelectedIndex = this.yifuTypeList.SelectedIndex + 1;
+                }
+            }
+            else if(e.KeyChar==(char)Keys.Up)
+            {
+                if (this.yifuTypeList.SelectedIndex >= 1)
+                {
+                    this.yifuTypeList.SelectedIndex = this.yifuTypeList.SelectedIndex - 1;
+                }
+            }
         }
     }
 }

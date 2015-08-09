@@ -218,10 +218,18 @@ namespace NEWUCC
                 YiFuPriceType pinpai = new YiFuPriceType();
                 pinpai.YiFuName = item.ClotheType;
                 pinpai = UccRuntime.Dop.SelectSingle(pinpai) as YiFuPriceType;
-                if (pinpai.IsZheKou > 0)
-                    dazhe += double.Parse(item.Price);
+                if (pinpai != null)
+                {
+                    if (pinpai.IsZheKou > 0)
+                        dazhe += double.Parse(item.Price);
+                    else
+                        sum += double.Parse(item.Price);
+                }
                 else
+                {
                     sum += double.Parse(item.Price);
+                }
+                
             }
             return sum + dazhe * 0.1 * ticket.ZheKou;
         }

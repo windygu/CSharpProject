@@ -184,6 +184,8 @@
             this.txtClotheType.Name = "txtClotheType";
             this.txtClotheType.Size = new System.Drawing.Size(381, 29);
             this.txtClotheType.TabIndex = 53;
+            this.txtClotheType.TextChanged += new System.EventHandler(this.txtClotheType_TextChanged);
+            this.txtClotheType.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtClotheType_KeyPress);
             // 
             // btnYanSe
             // 

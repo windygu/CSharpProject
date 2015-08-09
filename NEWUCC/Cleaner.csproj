@@ -345,6 +345,10 @@
       <Project>{80dd805d-7125-4a23-befe-71f99e70ebbd}</Project>
       <Name>Whats.App</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Whats.Core\Whats.Core.csproj">
+      <Project>{00193c84-327d-4a4f-8e57-3541cbe54628}</Project>
+      <Name>Whats.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Whats.UI.WinForm\Whats.UI.WinForm.csproj">
       <Project>{cc9ef589-7e3f-487b-b2d5-898a4add1ba8}</Project>
       <Name>Whats.UI.WinForm</Name>

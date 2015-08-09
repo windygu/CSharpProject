@@ -20,8 +20,8 @@ namespace Cleaner.Core
         [DataField("INT")]
         public int IsZheKou { get; set; }
 
-        //[DataField("NVARCHAR(50)")]
-        //public string Cat { get; set; }
+        [DataField("NVARCHAR(50)")]
+        public string Cat { get; set; }
 
     }
 }

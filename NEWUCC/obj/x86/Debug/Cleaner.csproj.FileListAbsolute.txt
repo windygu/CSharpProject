@@ -58,3 +58,5 @@ D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.PrintMoneyTicketForm.resources
 D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.XiaCiEditForm.resources
 D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.XiaCiListForm.resources
 D:\Projects\NEWUCC\obj\x86\Debug\Cleaner.csprojResolveAssemblyReference.cache
+D:\Projects\NEWUCC\bin\Debug\Whats.Core.dll
+D:\Projects\NEWUCC\bin\Debug\Whats.Core.pdb

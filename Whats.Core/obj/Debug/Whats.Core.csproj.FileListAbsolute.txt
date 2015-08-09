@@ -17,4 +17,3 @@ D:\Projects\Whats.Core\bin\Debug\Whats.Core.dll
 D:\Projects\Whats.Core\bin\Debug\Whats.Core.pdb
 D:\Projects\Whats.Core\obj\Debug\Whats.Core.dll
 D:\Projects\Whats.Core\obj\Debug\Whats.Core.pdb
-D:\Projects\Whats.Core\obj\Debug\Whats.Core.csprojResolveAssemblyReference.cache

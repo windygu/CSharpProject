@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projects", "Projects\Projects.csproj", "{3B4802BC-1518-4059-82C6-A2A7B3800AEC}"
 EndProject
@@ -66,6 +66,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code.WPME", "Code.WPME\Code.WPME.csproj", "{561F2543-D9EF-4061-9518-7FFBD641ED39}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roo.Compile.CSharpCodeCompilerClient", "Roo.Compile.CSharpCodeCompilerClient\Roo.Compile.CSharpCodeCompilerClient.csproj", "{79A65498-717E-41E2-8977-5BE29D9F2E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceTypeExcelImporter", "PriceTypeExcelImporter\PriceTypeExcelImporter.csproj", "{DFA5D010-3D3B-4EBD-9B1E-E7C650204639}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -397,6 +399,16 @@ Global
 		{79A65498-717E-41E2-8977-5BE29D9F2E3E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{79A65498-717E-41E2-8977-5BE29D9F2E3E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{79A65498-717E-41E2-8977-5BE29D9F2E3E}.Release|x86.ActiveCfg = Release|Any CPU
+		{DFA5D010-3D3B-4EBD-9B1E-E7C650204639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA5D010-3D3B-4EBD-9B1E-E7C650204639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA5D010-3D3B-4EBD-9B1E-E7C650204639}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{DFA5D010-3D3B-4EBD-9B1E-E7C650204639}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{DFA5D010-3D3B-4EBD-9B1E-E7C650204639}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DFA5D010-3D3B-4EBD-9B1E-E7C650204639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA5D010-3D3B-4EBD-9B1E-E7C650204639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA5D010-3D3B-4EBD-9B1E-E7C650204639}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DFA5D010-3D3B-4EBD-9B1E-E7C650204639}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{DFA5D010-3D3B-4EBD-9B1E-E7C650204639}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

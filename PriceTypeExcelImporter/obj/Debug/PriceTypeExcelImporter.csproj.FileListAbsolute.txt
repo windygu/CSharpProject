@@ -1,0 +1,14 @@
+D:\Projects\PriceTypeExcelImporter\bin\Debug\PriceTypeExcelImporter.exe
+D:\Projects\PriceTypeExcelImporter\bin\Debug\PriceTypeExcelImporter.pdb
+D:\Projects\PriceTypeExcelImporter\obj\Debug\PriceTypeExcelImporter.exe
+D:\Projects\PriceTypeExcelImporter\obj\Debug\PriceTypeExcelImporter.pdb
+D:\Projects\PriceTypeExcelImporter\bin\Debug\Cleaner.Core.dll
+D:\Projects\PriceTypeExcelImporter\bin\Debug\Roo.dll
+D:\Projects\PriceTypeExcelImporter\bin\Debug\Whats.Cloud.Qiniu.4.0.dll
+D:\Projects\PriceTypeExcelImporter\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\PriceTypeExcelImporter\bin\Debug\Mono.Data.Sqlite.dll
+D:\Projects\PriceTypeExcelImporter\bin\Debug\Cleaner.Core.pdb
+D:\Projects\PriceTypeExcelImporter\bin\Debug\Roo.pdb
+D:\Projects\PriceTypeExcelImporter\bin\Debug\Whats.Cloud.Qiniu.4.0.pdb
+D:\Projects\PriceTypeExcelImporter\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\PriceTypeExcelImporter\obj\Debug\PriceTypeExcelImporter.csprojResolveAssemblyReference.cache
